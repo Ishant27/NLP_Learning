@@ -9,10 +9,8 @@ I just tried two dataset, MR and SST.
 
 |Dataset|Class Size|Best Result|Kim's Paper Result|
 |---|---|---|---|
-|MR|2|77.5%(CNN-rand-static)|76.1%(CNN-rand-nostatic)|
-|SST|5|37.2%(CNN-rand-static)|45.0%(CNN-rand-nostatic)|
-
-I haven't adjusted the hyper-parameters for SST seriously.
+|MR|2|72%(CNN-rand-static)|76.1%(CNN-rand-nostatic)|
+|SST|5|37%(CNN-rand-static)|45.0%(CNN-rand-nostatic)|
 
 
 ## Train
